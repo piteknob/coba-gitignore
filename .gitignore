@@ -1,0 +1,6 @@
+# ignore file config.txt (file tidak akan ikut di add dan commit atapun push)
+config.txt
+# ignore folder data, jadi yang ada di dalam folder data tidak akan terbawa semua (karena di ignore)
+data/
+# ignore semua file yang memiliki ektensi .exe
+*.exe 
